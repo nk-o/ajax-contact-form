@@ -58,7 +58,8 @@ $('.ajax-contact-form').on('submit', function(e) {
 });
 ```
 
-# Used in our templates https://nkdev.info/
+## Thanks
+We created this class for our premium templates https://nkdev.info/
 
-# License
+## License
 Copyright (c) 2018 nK Licensed under the MIT license.
